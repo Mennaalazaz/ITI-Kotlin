@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day2Lab3Intent</string>
+    <string name="phone">هاتف</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="message">رسالة</string>
+    <string name="your_message">رسالتك</string>
+    <string name="close">إغلاق</string>
+    <string name="next">التالي</string>
+    <string name="read_spref">قراءة SPref</string>
+    <string name="write_spref">كتابة SPref</string>
+</resources>

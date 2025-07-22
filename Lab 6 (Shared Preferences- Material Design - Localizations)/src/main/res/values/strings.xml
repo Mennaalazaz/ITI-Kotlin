@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day2Lab3Intent</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="message">Message</string>
+    <string name="your_message">Your Message</string>
+    <string name="close">Close</string>
+    <string name="next">Next</string>
+    <string name="read_spref">Read SPref</string>
+    <string name="write_spref">Write SPref</string>
+</resources>
