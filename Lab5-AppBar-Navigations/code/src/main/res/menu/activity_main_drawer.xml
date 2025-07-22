@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/homeFragment"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/galleryFragment"
+            android:title="Gallery"
+            android:icon="@drawable/gallery"/>
+        <item
+            android:id="@+id/slideshowFragment"
+            android:title="Slideshow"
+            android:icon="@drawable/slideshow"/>
+
+    </menu>
